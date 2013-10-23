@@ -1,8 +1,8 @@
 TripBuilder
 ===========
 
-TripBuilder
+TripBuilder Dataset
 
-Dataset is coming soon. Details of the data can found in index.html
+Description of the dataset can found in index.html.
 
 DEMO is coming soon.
